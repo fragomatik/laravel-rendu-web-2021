@@ -1,0 +1,154 @@
+.panel-heading {
+    background-color: #2a88bd !important;
+    color: #fff !important;
+}
+
+.form-button-inline {
+    display: inline-block;
+}
+
+.article-img-index {
+    height: 200px !important;
+}
+
+.article-img-show {
+    width: 500px;
+}
+
+.writer-img {
+    display: inline;
+    width: 30px;
+}
+
+/* Sociaux */
+.social-links {
+    margin: 0 10px;
+}
+
+.facebook {
+    color: #3b5998;
+    vertical-align: middle;
+}
+
+.twitter {
+    color: #1da1f2;
+    vertical-align: middle;
+}
+
+.pinterest {
+    color: #bd081c;
+    vertical-align: middle;
+}
+
+.google-plus {
+    color: #03a9f4;
+    vertical-align: middle;
+}
+
+.home-img {
+    max-height: 200px !important;
+    opacity: .8;
+    margin: 100px auto 30px;
+}
+
+.home-hook {
+    color: #fff;
+    background-color: #2a88bd;
+    opacity: .8;
+    padding: 5px 40px;
+    border-radius: 10px;
+    font-weight: 300;
+}
+
+.home-button {
+    padding: 0;
+    margin: 0;
+}
+
+.home-button li {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.red-hr {
+    border-width: 6px;
+    border-color: brown;
+    margin-top: -10px;
+}
+
+.panel-admin {
+    border: 1px solid #2AB27B;
+}
+
+.member-admin, .member-user {
+    width: 100px;
+    height: auto;
+    margin-left: 10px;
+
+}
+
+.member-admin {
+    border: 1px solid #2AB27B;
+}
+
+.member-user {
+    border: 1px solid #3097D1;
+}
+
+.conversation {
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.my-message {
+    display: block;
+    padding-top: 10px;
+    word-wrap: break-word;
+}
+
+.conversation-img {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+    margin-top: 5px;
+}
+
+.heading-article {
+    background-color: #2a88bd;
+    padding: 8px 0;
+    color: #fff;
+}
+
+.show-article-img {
+    margin: 20px auto;
+    max-height: 250px;
+}
+
+.article-content {
+    line-height: 2em;
+    font-size: 15px;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+.comments-block {
+    max-height: 450px;
+    overflow-y: auto;
+}
+
+.individual-comment {
+    margin: 20px 0;
+}
+
+.header-comment {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.admin-controls {
+    min-height: 525px;
+    border: 1px solid #3097D1
+}
